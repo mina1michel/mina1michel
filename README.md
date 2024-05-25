@@ -1,7 +1,7 @@
 <h1 align="center">I'm Mina</h1>
 <h3 align="center">A passionate frontend developer looking for more knowledge</h3>
 
-- 🔭 I’m currently studying **college**
+- 🔭 I’m currently studying in **college**
 
 - 🌱 I’m currently learning **react.js**
 
