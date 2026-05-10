@@ -1,11 +1,12 @@
 <h1 align="center">I'm Mina</h1>
-<h3 align="center">A passionate frontend developer looking for more knowledge</h3>
+<h3 align="center">A passionate machine learning developer looking for more knowledge</h3>
 
-- 🔭 I’m currently studying in **college**
-
-- 🌱 I’m currently learning **react.js**
-
-- 📫 How to reach me **minamichel188@gmail.com**
+🎓 CS student specializing in AI & Machine Learning — graduating October 2026 from Sadat Academy, Cairo.
+🔬 Currently building real-world ML systems — from a LipNet-style lip reading model (3D-CNN + BiGRU + CTC loss) to telecom churn prediction with SHAP explainability.
+🛠️ Stack: Python · PyTorch · TensorFlow · Scikit-learn · XGBoost · OpenCV · Pandas
+☁️ AWS AI Practitioner · DEPI Data Science Graduate · ZTM AI Engineer Track
+🎯 Targeting a career as an AI/ML Engineer — focused on deep learning, computer vision, and NLP.
+📍 Cairo, Egypt
 
 
 <p align="left">
